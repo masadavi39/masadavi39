@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"People have emotions. A troublesome attribute that&#x27;s not only invisible, but also changes easily. If it&#x27;s friendship or love, then that&#x27;s fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder."</i><br>
-  — <b>Ai Haibara</b>, Case Closed
+  <i>"What I want isn&#x27;t money or pretty dresses, but a place that recognizes me as who I am. Fairy Tail is my other family, and it is a far more warming family than here!"</i><br>
+  — <b>Lucy Heartfilia, Fairy Tail</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
