@@ -35,7 +35,7 @@ masadavi@github
 </p>
 
 <details>
-<summary align="center"><b>🌱 Đang học thêm (bấm để xem)</b></summary>
+<summary align="center"><b>🌱 Đang học thêm</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
