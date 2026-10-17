@@ -1,0 +1,64 @@
+name: Daily waifu and quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          python3 - <<'PY'
+          import html, json, re, urllib.request
+
+          def get(url):
+              req = urllib.request.Request(url, headers={"User-Agent": "profile-readme-bot"})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return json.load(r)
+
+          def replace(text, tag, new):
+              pattern = rf"(<!-- {tag}:START -->).*?(<!-- {tag}:END -->)"
+              return re.sub(pattern, lambda m: m.group(1) + new + m.group(2), text, flags=re.S)
+
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+
+          # Waifu (SFW)
+          try:
+              url = get("https://api.waifu.pics/sfw/waifu")["url"]
+              img = f'<img align="left" src="{url}" width="300" alt="waifu" />'
+              readme = replace(readme, "WAIFU", img)
+          except Exception as e:
+              print("Waifu API failed:", e)
+
+          # Anime quote
+          try:
+              q = get("https://api.animechan.io/v1/quotes/random")["data"]
+              block = (
+                  "\n<blockquote>\n"
+                  f'  <i>"{html.escape(q["content"])}"</i><br>\n'
+                  f'  — <b>{html.escape(q["character"]["name"])}</b>, {html.escape(q["anime"]["name"])}\n'
+                  "</blockquote>\n"
+              )
+              readme = replace(readme, "QUOTE", block)
+          except Exception as e:
+              print("Quote API failed:", e)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: update waifu and quote" && git push)
