@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Nghịch thiên cải mệnh, chỉ cần tâm không lùi bước."</i><br>
-  — Chờ workflow chạy lần đầu để lấy quote anime mới~
+  <i>"People have emotions. A troublesome attribute that&#x27;s not only invisible, but also changes easily. If it&#x27;s friendship or love, then that&#x27;s fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder."</i><br>
+  — <b>Ai Haibara</b>, Case Closed
 </blockquote>
 <!-- QUOTE:END -->
 </div>
