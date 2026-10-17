@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<!-- WAIFU:START --><img align="left" src="https://api.waifu.pics/sfw/waifu" width="300" alt="waifu" /><!-- WAIFU:END -->
+<img align="left" src="assets/1.gif" width="300" alt="waifu" />
 
 ```
 masadavi@github

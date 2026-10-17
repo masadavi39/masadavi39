@@ -1,4 +1,4 @@
-name: Daily waifu and quote
+name: Daily anime quote
 
 on:
   schedule:
@@ -14,27 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Update quote in README
         run: |
           python3 - <<'PY'
-          import datetime, glob, html, json, os, random, re, sys, urllib.request
+          import html, json, os, random, re, urllib.request
 
-          UA = {"User-Agent": "Mozilla/5.0 (profile-readme-bot)"}
-          MAX_BYTES = 3_000_000  # images that are too large may not render on GitHub
-
-          def fetch(url):
-              req = urllib.request.Request(url, headers=UA)
-              with urllib.request.urlopen(req, timeout=30) as r:
-                  return r.read()
-
-          def get(url):
-              return json.loads(fetch(url))
-
-          def replace(text, tag, new):
-              pattern = rf"(<!-- {tag}:START -->).*?(<!-- {tag}:END -->)"
-              if not re.search(pattern, text, flags=re.S):
-                  raise RuntimeError(f"Marker {tag} not found in README.md")
-              return re.sub(pattern, lambda m: m.group(1) + new + m.group(2), text, flags=re.S)
+          REPO = os.environ.get("GITHUB_REPOSITORY", "unknown/unknown")
+          UA = {"User-Agent": f"profile-readme-updater/1.0 (https://github.com/{REPO})"}
 
           # Fallback quotes used when the quote API fails
           FALLBACK = [
@@ -45,71 +31,36 @@ jobs:
 
           with open("README.md", encoding="utf-8") as f:
               readme = f.read()
-          errors = []
 
-          # Waifu (SFW): download the image into the repo to avoid hotlink issues
-          sources = [
-              ("waifu.pics", "https://api.waifu.pics/sfw/waifu", lambda d: d["url"]),
-              ("nekos.best", "https://nekos.best/api/v2/waifu", lambda d: d["results"][0]["url"]),
-          ]
-          saved = None
-          for name, api, pick in sources:
-              for attempt in range(4):
-                  try:
-                      url = pick(get(api))
-                      ext = url.rsplit(".", 1)[-1].lower().split("?")[0]
-                      if ext not in ("jpg", "jpeg", "png", "gif", "webp"):
-                          raise RuntimeError(f"Unsupported image format: {url}")
-                      data = fetch(url)
-                      if len(data) > MAX_BYTES:
-                          raise RuntimeError(f"Image too large ({len(data)} bytes): {url}")
-                      os.makedirs("assets", exist_ok=True)
-                      stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d%H%M%S")
-                      saved = f"assets/waifu-{stamp}.{ext}"
-                      with open(saved, "wb") as f:
-                          f.write(data)
-                      print("Waifu OK:", name, url, len(data), "bytes ->", saved)
-                      break
-                  except Exception as e:
-                      errors.append(f"waifu/{name}: {e}")
-                      print("Waifu FAIL:", name, e)
-              if saved:
-                  break
-
-          if saved:
-              for old in glob.glob("assets/waifu-*"):
-                  if old != saved:
-                      os.remove(old)
-              readme = replace(readme, "WAIFU", f'<img align="left" src="{saved}" width="300" alt="waifu" />')
-
-          # Anime quote, fall back to a built-in quote on failure
           try:
-              q = get("https://api.animechan.io/v1/quotes/random")["data"]
+              req = urllib.request.Request("https://api.animechan.io/v1/quotes/random", headers=UA)
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  q = json.load(r)["data"]
               content, who = q["content"], f'{q["character"]["name"]}, {q["anime"]["name"]}'
               print("Quote OK:", who)
           except Exception as e:
-              errors.append(f"quote: {e}")
-              print("Quote FAIL:", e)
+              print("Quote FAIL, using fallback:", e)
               content, who = random.choice(FALLBACK)
+
           block = (
               "\n<blockquote>\n"
               f'  <i>"{html.escape(content)}"</i><br>\n'
               f'  — <b>{html.escape(who)}</b>\n'
               "</blockquote>\n"
           )
-          readme = replace(readme, "QUOTE", block)
+
+          pattern = r"(<!-- QUOTE:START -->).*?(<!-- QUOTE:END -->)"
+          if not re.search(pattern, readme, flags=re.S):
+              raise SystemExit("Marker QUOTE not found in README.md")
+          readme = re.sub(pattern, lambda m: m.group(1) + block + m.group(2), readme, flags=re.S)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
-
-          if not saved:
-              print("Could not fetch a waifu image:", errors)
-              sys.exit(1)
           PY
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A README.md assets
-          git diff --cached --quiet && echo "No changes to commit" || (git commit -m "chore: update waifu and quote" && git push)
+          git add README.md
+          git diff --cached --quiet && echo "No changes to commit" || (git commit -m "chore: update anime quote" && git push)
