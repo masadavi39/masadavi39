@@ -8,13 +8,13 @@
 ```
 masadavi@github
 -------------------------
-🎓 Sinh viên mới ra trường, ngành Công nghệ thông tin
-🌱 Đang học Spring Boot, REST API, Docker
-💫 Languages: Java, SQL
-⚔️ Backend only (chưa làm frontend)
-🍥 Mê anime, manga, tu tiên, huyền huyễn
-🎧 Vừa code vừa nghe OST anime
-📫 Đang tìm vị trí Intern / Fresher Java Backend
+🎓 ...
+🌱 ...
+💫 ...
+⚔️ ...
+🍥 ...
+🎧 ...
+📫 ...
 ```
 </p>
 
@@ -32,7 +32,6 @@ masadavi@github
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 <details>
@@ -60,6 +59,4 @@ masadavi@github
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-b7a0e7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/your-facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
