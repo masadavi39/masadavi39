@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"What I want isn&#x27;t money or pretty dresses, but a place that recognizes me as who I am. Fairy Tail is my other family, and it is a far more warming family than here!"</i><br>
-  — <b>Lucy Heartfilia, Fairy Tail</b>
+  <i>"I&#x27;m gonna take my place as a true member of this family!"</i><br>
+  — <b>Sohma Kyo, Fruits Basket</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
