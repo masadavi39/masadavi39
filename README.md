@@ -58,5 +58,5 @@ masadavi@github
 <h2 align="center">💌 Liên hệ</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-b7a0e7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ttanh86.cv@gmail.com"><img src="https://img.shields.io/badge/Email-b7a0e7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
