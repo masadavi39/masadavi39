@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"What I want isn&#x27;t money or pretty dresses, but a place that recognizes me as who I am. Fairy Tail is my other family, and it is a far more warming family than here!"</i><br>
-  — <b>Lucy Heartfilia, Fairy Tail</b>
+  <i>"These monsters dare to enter this house built on blood and honor! I will see them all roast in the deepest pits of Hell!"</i><br>
+  — <b>Integra Hellsing, Hellsing</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
