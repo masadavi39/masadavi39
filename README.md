@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"I&#x27;m gonna take my place as a true member of this family!"</i><br>
-  — <b>Sohma Kyo, Fruits Basket</b>
+  <i>"These monsters dare to enter this house built on blood and honor! I will see them all roast in the deepest pits of Hell!"</i><br>
+  — <b>Integra Hellsing, Hellsing</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
