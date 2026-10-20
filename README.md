@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"These monsters dare to enter this house built on blood and honor! I will see them all roast in the deepest pits of Hell!"</i><br>
-  — <b>Integra Hellsing, Hellsing</b>
+  <i>"With a keen eye for detail one truth always prevails."</i><br>
+  — <b>Shinichi Kudou, Case Closed</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
