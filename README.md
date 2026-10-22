@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"When going on an adventure it&#x27;s hard to stay calm. As humans, even if we know the adventure will be full of pain and sorrow, we still choose to go on it. Real adventures are not like the ones depicted in games or comic books - they&#x27;re neither easy nor quick and they can break a person&#x27;s heart. Real adventures can torment people. They can make you regret ever going on them. But still, that&#x27;s the true meaning of an adventure. If that&#x27;s so, then why do we, as people, choose to go on them? Why is that? Because we want to be heroes. Real heroes don&#x27;t give up, even in front of pain or sorrow or regret! Rather, they want to live a full life. That&#x27;s what real heroes are!"</i><br>
-  — <b>Hayato Furinji, KenIchi: The Mightiest Disciple</b>
+  <i>"Humans will wither away if they&#x27;re always alone. The only remedy would be to seek out other people."</i><br>
+  — <b>Misawa Kyouko, My Little Monster</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
