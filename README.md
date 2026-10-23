@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Humans will wither away if they&#x27;re always alone. The only remedy would be to seek out other people."</i><br>
-  — <b>Misawa Kyouko, My Little Monster</b>
+  <i>"How could I burden that brat with the weight of my life? *about Oz*"</i><br>
+  — <b>Elliot Nightray, Pandora Hearts</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
