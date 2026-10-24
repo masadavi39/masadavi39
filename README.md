@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"How could I burden that brat with the weight of my life? *about Oz*"</i><br>
-  — <b>Elliot Nightray, Pandora Hearts</b>
+  <i>"Well, well, if it isn&#x27;t the holy monk."</i><br>
+  — <b>Naraku, InuYasha</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
