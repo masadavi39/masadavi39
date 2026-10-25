@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Well, well, if it isn&#x27;t the holy monk."</i><br>
-  — <b>Naraku, InuYasha</b>
+  <i>"I think that every day the sun rises, it may be the last time I bask in the sun."</i><br>
+  — <b>Mugen, Samurai Champloo</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
