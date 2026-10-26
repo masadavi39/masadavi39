@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"I think that every day the sun rises, it may be the last time I bask in the sun."</i><br>
-  — <b>Mugen, Samurai Champloo</b>
+  <i>"Hmmm...how do I put this? My first impression of this group...you&#x27;re a bunch of idiots!"</i><br>
+  — <b>Hatake Kakashi, Naruto</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
