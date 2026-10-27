@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Hmmm...how do I put this? My first impression of this group...you&#x27;re a bunch of idiots!"</i><br>
-  — <b>Hatake Kakashi, Naruto</b>
+  <i>"You can&#x27;t spell &quot;slaughter&quot; without &quot;laughter.&quot;"</i><br>
+  — <b>Hollow Ichigo, Bleach</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
