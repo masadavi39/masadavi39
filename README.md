@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"You can&#x27;t spell &quot;slaughter&quot; without &quot;laughter.&quot;"</i><br>
-  — <b>Hollow Ichigo, Bleach</b>
+  <i>"I don&#x27;t know how long my leg will last, but I want to believe in this new me. I will keep on running until my leg can&#x27;t keep up anymore."</i><br>
+  — <b>Hyoma Chigiri, Blue Lock</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
