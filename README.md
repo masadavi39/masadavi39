@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"I don&#x27;t know how long my leg will last, but I want to believe in this new me. I will keep on running until my leg can&#x27;t keep up anymore."</i><br>
-  — <b>Hyoma Chigiri, Blue Lock</b>
+  <i>"You know... you really are something... (to Tohru)"</i><br>
+  — <b>Sohma Kyo, Fruits Basket</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
