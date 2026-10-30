@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"You know... you really are something... (to Tohru)"</i><br>
-  — <b>Sohma Kyo, Fruits Basket</b>
+  <i>"But even though she&#x27;s gone... she&#x27;s not really gone, right? That the light won&#x27;t go on in that apartment... is a lie, right?"</i><br>
+  — <b>Arisa Uotani, Fruits Basket</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
