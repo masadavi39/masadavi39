@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"But even though she&#x27;s gone... she&#x27;s not really gone, right? That the light won&#x27;t go on in that apartment... is a lie, right?"</i><br>
-  — <b>Arisa Uotani, Fruits Basket</b>
+  <i>"That’s something you can’t know until you&#x27;ve tried it, and you still won’t understand after you play. I&#x27;ve been playing for 45 years and I still don’t understand. I&#x27;ve never been able to figure it out. That’s why I keep playing."</i><br>
+  — <b>Hidehiro Harada, Chihayafuru 2</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
