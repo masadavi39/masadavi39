@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"That’s something you can’t know until you&#x27;ve tried it, and you still won’t understand after you play. I&#x27;ve been playing for 45 years and I still don’t understand. I&#x27;ve never been able to figure it out. That’s why I keep playing."</i><br>
-  — <b>Hidehiro Harada, Chihayafuru 2</b>
+  <i>"If I win, promise you won’t destroy the earth."</i><br>
+  — <b>Goku, Dragon Ball Z</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
