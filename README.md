@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"If I win, promise you won’t destroy the earth."</i><br>
-  — <b>Goku, Dragon Ball Z</b>
+  <i>"So what if I&#x27;d spare him? In my mind it&#x27;s the certainty in myself that I possess which allows me to have that kind of mercy or compassion. There&#x27;s no wavering on that point. It&#x27;s fixed like the stars. The fact is I&#x27;m never gonna be killed! So remember this: mercy and compassion are virtues that only the strong are privileged to possess. And I am strong."</i><br>
+  — <b>Claire Stanfield, Baccano!</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
