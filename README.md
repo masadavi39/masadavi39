@@ -49,8 +49,11 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"So what if I&#x27;d spare him? In my mind it&#x27;s the certainty in myself that I possess which allows me to have that kind of mercy or compassion. There&#x27;s no wavering on that point. It&#x27;s fixed like the stars. The fact is I&#x27;m never gonna be killed! So remember this: mercy and compassion are virtues that only the strong are privileged to possess. And I am strong."</i><br>
-  — <b>Claire Stanfield, Baccano!</b>
+  <i>"You can’t take back the answer you already gave out. There’s no use in crying over spilt milk. The egg you broke won’t come back. All the horses and soldiers of a king will never return to his side again.
+It doesn’t matter what was said. You can never wipe away a bad impression.
+Even though the opposite is so simple in comparison. Just one word will make someone appear hateful. Just doing one thing would make you seem hateful.
+That’s why excuses are meaningless. Because even those excuses will make you look hateful."</i><br>
+  — <b>Hachiman Hikigaya, My Teen Romantic Comedy SNAFU TOO!</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
