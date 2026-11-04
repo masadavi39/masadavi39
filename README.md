@@ -49,11 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"You can’t take back the answer you already gave out. There’s no use in crying over spilt milk. The egg you broke won’t come back. All the horses and soldiers of a king will never return to his side again.
-It doesn’t matter what was said. You can never wipe away a bad impression.
-Even though the opposite is so simple in comparison. Just one word will make someone appear hateful. Just doing one thing would make you seem hateful.
-That’s why excuses are meaningless. Because even those excuses will make you look hateful."</i><br>
-  — <b>Hachiman Hikigaya, My Teen Romantic Comedy SNAFU TOO!</b>
+  <i>"I just wanna enjoy myself. Seriously. Do some leisurely patrolling, put in a few appearances, say Aw shucks, no trouble today, and get a good night’s sleep! That’s my ideal life! I wanna make this world one where heroes have time to kill."</i><br>
+  — <b>Keigo Takami, My Hero Academia</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
