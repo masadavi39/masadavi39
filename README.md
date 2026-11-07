@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"This world is mine. I think this world may even just be a long, long dream I&#x27;m watching. You guys may just be illusions, and it can&#x27;t be proven whether or not you really exist either. In other words, this world was created with me at the center. So what will happen if I die? I don&#x27;t know. My imagination isn&#x27;t very creative; I just can&#x27;t imagine myself dying. In other words, there is no way this world can completely disappear. But if I die, then everyone will disappear. I am the only one in this world who won&#x27;t disappear. The rest are just people I see as if in a dream."</i><br>
-  — <b>Claire Stanfield, Baccano!</b>
+  <i>"The lifespan of a human is certainly way too short. That&#x27;s why you&#x27;ve got to make the most of it and live your life to the fullest."</i><br>
+  — <b>Leone, Akame ga Kill!</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
