@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"The lifespan of a human is certainly way too short. That&#x27;s why you&#x27;ve got to make the most of it and live your life to the fullest."</i><br>
-  — <b>Leone, Akame ga Kill!</b>
+  <i>"What are you so hesitant about? It’s your dream, isn’t it? It’s right in front of you and you’re wavering? You gotta be reckless, and take whatever you can!"</i><br>
+  — <b>Okazaki Tomoya, Clannad</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
