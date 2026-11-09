@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"What are you so hesitant about? It’s your dream, isn’t it? It’s right in front of you and you’re wavering? You gotta be reckless, and take whatever you can!"</i><br>
-  — <b>Okazaki Tomoya, Clannad</b>
+  <i>"It’s because we help out when they’re in trouble that we can count on them to come running when we need it."</i><br>
+  — <b>Nara Shikamaru, Naruto</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
