@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"It’s because we help out when they’re in trouble that we can count on them to come running when we need it."</i><br>
-  — <b>Nara Shikamaru, Naruto</b>
+  <i>"The thing I hate the most is to trample on other people&#x27;s good will."</i><br>
+  — <b>Light Yagami, Death Note</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
