@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"The thing I hate the most is to trample on other people&#x27;s good will."</i><br>
-  — <b>Light Yagami, Death Note</b>
+  <i>"Sins you&#x27;ve committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don&#x27;t get forgiven until you die."</i><br>
+  — <b>Koichiro Marito, Aldnoah.Zero</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
