@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Sins you&#x27;ve committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don&#x27;t get forgiven until you die."</i><br>
-  — <b>Koichiro Marito, Aldnoah.Zero</b>
+  <i>"The world doesn&#x27;t get to decide whether my life is boring, fun, or ordinary, because that&#x27;s my decision to make. As long as I have the will, nothing is impossible!"</i><br>
+  — <b>Keima Katsuragi, The World God Only Knows</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
