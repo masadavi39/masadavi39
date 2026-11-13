@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"The world doesn&#x27;t get to decide whether my life is boring, fun, or ordinary, because that&#x27;s my decision to make. As long as I have the will, nothing is impossible!"</i><br>
-  — <b>Keima Katsuragi, The World God Only Knows</b>
+  <i>"[as a child, to Rangiku Matsumoto] I&#x27;ve decided. I&#x27;m going to become a Shinigami. Become a Shinigami and change things. So that they&#x27;ll end...without Rangiku having to cry."</i><br>
+  — <b>Ichimaru Gin, Bleach</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
