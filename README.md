@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"[as a child, to Rangiku Matsumoto] I&#x27;ve decided. I&#x27;m going to become a Shinigami. Become a Shinigami and change things. So that they&#x27;ll end...without Rangiku having to cry."</i><br>
-  — <b>Ichimaru Gin, Bleach</b>
+  <i>"Really, what a joke. I just didn’t understand what these nice guys were thinking about. Because they were so in love with everyone getting along, they ended up opening up other problems when they try to fix one. I didn’t even ask to be thrown into that circle either."</i><br>
+  — <b>Hachiman Hikigaya, My Teen Romantic Comedy SNAFU TOO!</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
