@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Care to little, you lose them. Care too much, you get hurt."</i><br>
-  — <b>Gajeel Redfox, Fairy Tail</b>
+  <i>"Don&#x27;t be indecisive. Just go for it."</i><br>
+  — <b>Atsushi Otani, Lovely Complex</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
