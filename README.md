@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Don&#x27;t be indecisive. Just go for it."</i><br>
-  — <b>Atsushi Otani, Lovely Complex</b>
+  <i>"*to Yoh* Because I aim to be the First Lady of the shaman world... You will become Shaman King, whether you want to or not."</i><br>
+  — <b>Anna Kyoyama, Shaman King</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
