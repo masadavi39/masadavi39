@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"*to Yoh* Because I aim to be the First Lady of the shaman world... You will become Shaman King, whether you want to or not."</i><br>
-  — <b>Anna Kyoyama, Shaman King</b>
+  <i>"I can conquer the world with one hand as long as you are Holding the other"</i><br>
+  — <b>Sora, No Game, No Life</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
