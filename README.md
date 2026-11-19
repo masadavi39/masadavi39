@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"I can conquer the world with one hand as long as you are Holding the other"</i><br>
-  — <b>Sora, No Game, No Life</b>
+  <i>"Look, all it means is that when I lose it, it&#x27;s cause things make no sense.  If there was any logic to it, then I wouldn&#x27;t get pissed even if I got shot or stabbed."</i><br>
+  — <b>Shizuo Heiwajima, Durarara!!</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
