@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Look, all it means is that when I lose it, it&#x27;s cause things make no sense.  If there was any logic to it, then I wouldn&#x27;t get pissed even if I got shot or stabbed."</i><br>
-  — <b>Shizuo Heiwajima, Durarara!!</b>
+  <i>"If things were to change, do you think you could ever fall in love with me? Or fulfill a dream for which I long? The world is about to change. That&#x27;s why I&#x27;m here now. I&#x27;ve come and this will mean a new beginning for my life."</i><br>
+  — <b>Morgan Le Fay, Ah! My Goddess: The Movie</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
