@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"If things were to change, do you think you could ever fall in love with me? Or fulfill a dream for which I long? The world is about to change. That&#x27;s why I&#x27;m here now. I&#x27;ve come and this will mean a new beginning for my life."</i><br>
-  — <b>Morgan Le Fay, Ah! My Goddess: The Movie</b>
+  <i>"However rough the waters in the outside world may be, to find your own lighthouse and swim for it is only logical, isn&#x27;t it?"</i><br>
+  — <b>Hayabusa Shou, Haven&#x27;t You Heard? I&#x27;m Sakamoto</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
