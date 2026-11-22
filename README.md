@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"However rough the waters in the outside world may be, to find your own lighthouse and swim for it is only logical, isn&#x27;t it?"</i><br>
-  — <b>Hayabusa Shou, Haven&#x27;t You Heard? I&#x27;m Sakamoto</b>
+  <i>"If a prediction is right, then it&#x27;s like you only have one future. Like that future has been decided. But if it&#x27;s wrong, then you have an almost infinite number of possibilities. And that means that even the tiniest twist of fate can change your future. I want to believe that I have choices - that the path I walk has many different turns, and many different roads to follow!"</i><br>
+  — <b>Fujibayashi Ryou, Clannad</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
