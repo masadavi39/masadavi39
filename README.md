@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"To define true madness. What is it to be nothing else but mad?"</i><br>
-  — <b>Franken Stein, Soul Eater</b>
+  <i>"I&#x27;ve always been afraid...Always been pretending to follow you closely, always pretending to sharpen my fangs, when the truth is...I&#x27;m scared to death just treading on your shadow."</i><br>
+  — <b>Abarai Renji, Bleach</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
