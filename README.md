@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"I&#x27;ve always been afraid...Always been pretending to follow you closely, always pretending to sharpen my fangs, when the truth is...I&#x27;m scared to death just treading on your shadow."</i><br>
-  — <b>Abarai Renji, Bleach</b>
+  <i>"It&#x27;s not a sin to fall in love. You can&#x27;t even arrest someone over that."</i><br>
+  — <b>Gajeel Redfox, Fairy Tail</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
