@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"It&#x27;s not a sin to fall in love. You can&#x27;t even arrest someone over that."</i><br>
-  — <b>Gajeel Redfox, Fairy Tail</b>
+  <i>"Sympathy only gets people hurt."</i><br>
+  — <b>Tsugumi, Guilty Crown</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
