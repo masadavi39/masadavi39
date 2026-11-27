@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Sympathy only gets people hurt."</i><br>
-  — <b>Tsugumi, Guilty Crown</b>
+  <i>"Whatever you value... What you consider right is up to you. But don&#x27;t force those ideals onto other people."</i><br>
+  — <b>Yozuru Kagenui, Nisemonogatari</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
