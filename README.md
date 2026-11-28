@@ -49,8 +49,8 @@ masadavi@github
 <div align="center">
 <!-- QUOTE:START -->
 <blockquote>
-  <i>"Whatever you value... What you consider right is up to you. But don&#x27;t force those ideals onto other people."</i><br>
-  — <b>Yozuru Kagenui, Nisemonogatari</b>
+  <i>"People can run from the things they don&#x27;t like all they want. But if they&#x27;re just averting their eyes, they&#x27;re not running. As long as you think the current situation is okay, no one can help."</i><br>
+  — <b>Mother Araragi, Monogatari Series: Second Season</b>
 </blockquote>
 <!-- QUOTE:END -->
 </div>
